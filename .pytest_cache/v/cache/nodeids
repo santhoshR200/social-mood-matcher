@@ -1,0 +1,22 @@
+[
+  "tests/test_pipeline.py::TestCaptionGenerator::test_all_sentiments",
+  "tests/test_pipeline.py::TestCaptionGenerator::test_generate_caption",
+  "tests/test_pipeline.py::TestCaptionGenerator::test_generate_multiple_captions",
+  "tests/test_pipeline.py::TestCharacterLimiter::test_check_limit",
+  "tests/test_pipeline.py::TestCharacterLimiter::test_format_for_platform",
+  "tests/test_pipeline.py::TestCharacterLimiter::test_get_character_stats",
+  "tests/test_pipeline.py::TestCharacterLimiter::test_limit_text",
+  "tests/test_pipeline.py::TestHashtagEngine::test_filter_hashtags_by_length",
+  "tests/test_pipeline.py::TestHashtagEngine::test_get_category_hashtags",
+  "tests/test_pipeline.py::TestHashtagEngine::test_get_hashtags",
+  "tests/test_pipeline.py::TestHashtagEngine::test_get_hashtags_by_priority",
+  "tests/test_pipeline.py::TestImageProcessor::test_create_dummy_image",
+  "tests/test_pipeline.py::TestImageProcessor::test_preprocess_for_model",
+  "tests/test_pipeline.py::TestImageProcessor::test_resize_image",
+  "tests/test_pipeline.py::TestIntegration::test_complete_pipeline",
+  "tests/test_pipeline.py::TestTextProcessor::test_clean_text",
+  "tests/test_pipeline.py::TestTextProcessor::test_format_hashtags",
+  "tests/test_pipeline.py::TestTextProcessor::test_smart_truncate_with_hashtags",
+  "tests/test_pipeline.py::TestTextProcessor::test_truncate_text",
+  "tests/test_pipeline.py::test_character_limit_edge_cases"
+]
